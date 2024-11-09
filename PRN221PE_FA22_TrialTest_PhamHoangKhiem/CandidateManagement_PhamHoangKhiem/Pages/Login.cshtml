@@ -1,0 +1,23 @@
+﻿@page
+@model CandidateManagement_PhamHoangKhiem.Pages.LoginModel
+@{
+}
+<body>
+    <form method="post">
+        <h1>Login form</h1>
+        <div>
+            <div class="cpl-2">Email</div>
+            <div class="cpl-10"><input type="text" name="txtEmail" /></div>
+        </div>
+        <div>
+            <div class="cpl-2">Password</div>
+            <div class="cpl-10"><input type="password" name="txtPassword" /></div>
+        </div>
+        <div>
+            <div class="cpl-6" style="margin-top:30px">
+                <input type="submit" class="btn btn-primary" name="btnLogin" value="Login" />
+                <input type="reset" class="btn btn-danger" name="btnReset" value="Reset" />
+            </div>
+        </div>
+    </form>
+</body>

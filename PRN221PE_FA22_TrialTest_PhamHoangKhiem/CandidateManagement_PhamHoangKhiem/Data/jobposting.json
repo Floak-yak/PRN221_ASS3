@@ -1,0 +1,56 @@
+[
+  {
+    "PostingId": "P0001",
+    "JobPostingTitle": "System Administrator Specialist (MS Exchange, AD...)",
+    "Description": "As our company is growing and we offer more services, we need a System Administrator Specialist to manage our systems.",
+    "PostedDate": "2022-07-01T00:00:00"
+  },
+  {
+    "PostingId": "P0002",
+    "JobPostingTitle": "IT Security Manager",
+    "Description": "Establish the Information Security Plan toward the protection of organizational data and systems.",
+    "PostedDate": "2022-07-01T00:00:00"
+  },
+  {
+    "PostingId": "P0003",
+    "JobPostingTitle": "(Senior) IT Recruitment Consultant",
+    "Description": "Developing and maintaining loyal business relationships with clients and candidates.",
+    "PostedDate": "2022-07-01T00:00:00"
+  },
+  {
+    "PostingId": "P0004",
+    "JobPostingTitle": "Senior Network Security Engineer",
+    "Description": "In this role you will provide Security Subject Matter Expertise in network security design and management.",
+    "PostedDate": "2022-07-01T00:00:00"
+  },
+  {
+    "PostingId": "P0005",
+    "JobPostingTitle": "Mobile Game Developer",
+    "Description": "Responsible for QA phase of those large-scale projects and troubleshooting complex issues.",
+    "PostedDate": "2022-07-01T00:00:00"
+  },
+  {
+    "PostingId": "P0006",
+    "JobPostingTitle": "Web App",
+    "Description": "Web App development and maintenance.",
+    "PostedDate": "2024-09-20T11:00:09.890"
+  },
+  {
+    "PostingId": "P0007",
+    "JobPostingTitle": "WPF App",
+    "Description": "WPF App development and design.",
+    "PostedDate": "2024-09-20T11:01:22.143"
+  },
+  {
+    "PostingId": "P0008",
+    "JobPostingTitle": "WF App",
+    "Description": "WF App development and support.",
+    "PostedDate": "2024-09-20T11:01:55.837"
+  },
+  {
+    "PostingId": "P0009",
+    "JobPostingTitle": "Razor Page",
+    "Description": "Razor Page Web App development.",
+    "PostedDate": "2024-10-29T11:02:58.883"
+  }
+]
